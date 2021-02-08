@@ -25,7 +25,7 @@ distribute==0.6.28
 ecdsa==0.10
 feedparser==5.1.2
 fpconst==0.7.2
-httplib2==0.7.4
+httplib2==0.19.0
 #louis==2.4.1
 #ltc-scrypt==1.0
 #numpy==1.6.2
